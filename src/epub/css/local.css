@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-
 [epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
@@ -21,15 +16,3 @@ footer{
 	display: none;
 }
 
-#the-wood-felling-2 ol[type="a"]{
-	list-style-type: none;
-	padding-left: 1em;
-}
-
-[epub|type~="bridgehead"]{
-	display: inline-block;
-	font-style: italic;
-	max-width: 60%;
-	text-align: justify;
-	text-indent: 0;
-}
