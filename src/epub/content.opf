@@ -52,6 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/41119</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008634081</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101834927</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/102113914</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -86,6 +87,13 @@
 		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
+		<dc:contributor id="translator-4">Constance Garnett</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Garnett, Constance</meta>
+		<meta property="se:name.person.full-name" refines="#translator-4">Constance Clara Garnett</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">https://id.loc.gov/authorities/names/n50015174</meta>
+		<meta property="display-seq" refines="#translator-4">4</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
