@@ -21,10 +21,7 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="bridgehead"]{
-	display: inline-block;
-	font-style: italic;
-	max-width: 60%;
-	text-align: justify;
-	text-indent: 0;
+#lucerne header p{
+	font-variant: small-caps;
+	text-align: right;
 }
