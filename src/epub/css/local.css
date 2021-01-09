@@ -28,3 +28,7 @@ footer{
 	text-align: justify;
 	text-indent: 0;
 }
+
+#lucerne header p{
+	font-variant: small-caps;
+	text-align: right;
