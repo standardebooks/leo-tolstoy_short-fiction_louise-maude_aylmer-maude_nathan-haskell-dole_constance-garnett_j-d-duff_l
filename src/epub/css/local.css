@@ -6,6 +6,7 @@ body [xml|lang]{
 	font-style: italic;
 }
 
+/* Begin verse CSS */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -28,6 +29,17 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+/* End verse CSS */
+
+/* Start letter CSS */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+/* End letter CSS */
 
 footer{
 	margin-top: 1em;
