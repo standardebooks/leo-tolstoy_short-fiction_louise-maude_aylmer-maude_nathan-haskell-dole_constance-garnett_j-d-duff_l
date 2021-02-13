@@ -56,6 +56,8 @@
 		<dc:source>https://en.wikisource.org/wiki/Family_Happiness</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.149072</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008973985</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/38025</dc:source>
+		<dc:source>https://archive.org/details/completeworksofc12tols</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -104,6 +106,12 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-5">https://id.loc.gov/authorities/names/n50026939</meta>
 		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-6">Leo Weiner</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Weiner, Leo</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/Leo_Wiener</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-6">https://id.loc.gov/authorities/names/n50016211</meta>
+		<meta property="display-seq" refines="#translator-6">6</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
@@ -126,6 +134,12 @@
 		<meta property="se:url.homepage" refines="#transcriber-4">https://en.wikisource.org</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-4">https://en.wikipedia.org/wiki/Wikisource</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Anna Hall</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Hall, Anna</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Albert László</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">László, Albert</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
@@ -159,6 +173,7 @@
 		<item href="text/sevastopol-in-december-1854.xhtml" id="sevastopol-in-december-1854.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol-in-may-1855.xhtml" id="sevastopol-in-may-1855.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol.xhtml" id="sevastopol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-decembrists.xhtml" id="the-decembrists.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-porcelain-doll.xhtml" id="the-porcelain-doll.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-raid.xhtml" id="the-raid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-snowstorm.xhtml" id="the-snowstorm.xhtml" media-type="application/xhtml+xml"/>
@@ -188,6 +203,7 @@
 		<itemref idref="family-happiness.xhtml"/>
 		<itemref idref="polikoushka.xhtml"/>
 		<itemref idref="the-porcelain-doll.xhtml"/>
+		<itemref idref="the-decembrists.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
