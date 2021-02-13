@@ -111,9 +111,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ilya_Repin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79075231</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Weijia Cheng</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">http://weijiarhymeswith.asia</meta>
+		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sankar Viswanathan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Viswanathan, Sankar</meta>
@@ -121,15 +121,11 @@
 		<dc:contributor id="transcriber-3">Odessa Paige Turner</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Turner, Odessa Paige</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-4">Wikisource</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Wikisource</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://en.wikisource.org</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-4">https://en.wikipedia.org/wiki/Wikisource</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">Wikisource</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Wikisource</meta>
-		<meta property="se:url.homepage" refines="#transcriber-5">https://en.wikisource.org</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-5">https://en.wikipedia.org/wiki/Wikisource</meta>
-		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
@@ -139,6 +135,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
