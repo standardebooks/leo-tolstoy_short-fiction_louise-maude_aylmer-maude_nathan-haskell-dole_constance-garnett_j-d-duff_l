@@ -146,6 +146,9 @@
 		<dc:contributor id="transcriber-6">Albert László</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">László, Albert</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Chuck Greif</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Chuck Greif</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
