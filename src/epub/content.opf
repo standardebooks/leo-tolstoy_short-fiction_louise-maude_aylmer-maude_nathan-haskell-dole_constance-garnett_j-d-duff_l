@@ -112,6 +112,12 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-6">https://id.loc.gov/authorities/names/n50016211</meta>
 		<meta property="display-seq" refines="#translator-6">6</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-7">R. S. Townsend</dc:contributor>
+		<meta property="file-as" refines="#translator-7">Townsend, R. S.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-7">Rochelle Slavyanskaia Townsend</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-7">https://id.loc.gov/authorities/names/n93115501</meta>
+		<meta property="display-seq" refines="#translator-7">7</meta>
+		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
