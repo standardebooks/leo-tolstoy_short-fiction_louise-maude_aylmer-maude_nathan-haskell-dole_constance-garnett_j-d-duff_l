@@ -60,3 +60,7 @@ footer{
 	font-variant: small-caps;
 	text-align: right;
 }
+
+#hindu-fables article{
+	break-after: page;
+}
