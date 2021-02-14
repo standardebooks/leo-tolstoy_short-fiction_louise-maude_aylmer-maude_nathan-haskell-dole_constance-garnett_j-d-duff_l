@@ -58,6 +58,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/008973985</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/38025</dc:source>
 		<dc:source>https://archive.org/details/completeworksofc12tols</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51708</dc:source>
+		<dc:source>https://archive.org/details/tolstoiforyoung00tols</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
