@@ -61,6 +61,7 @@ footer{
 	text-align: right;
 }
 
-#hindu-fables article{
+#hindu-fables article,
+#natural-science-stories article{
 	break-after: page;
 }
