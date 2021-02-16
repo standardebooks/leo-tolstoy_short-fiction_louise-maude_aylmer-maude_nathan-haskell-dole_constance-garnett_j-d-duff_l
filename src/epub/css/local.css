@@ -65,3 +65,8 @@ footer{
 #natural-science-stories article{
 	break-after: page;
 }
+
+#god-sees-the-truth-but-waits footer{
+	text-align: center;
+	font-style: italic;
+}
