@@ -217,6 +217,7 @@
 		<item href="text/two-hussars.xhtml" id="two-hussars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-happened-to-bulka-in-pyatigorsk.xhtml" id="what-happened-to-bulka-in-pyatigorsk.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/what-men-live-by.xhtml" id="what-men-live-by.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
@@ -261,6 +262,7 @@
 		<itemref idref="a-prisoner-in-the-caucasus.xhtml"/>
 		<itemref idref="god-sees-the-truth-but-waits.xhtml"/>
 		<itemref idref="the-bear-hunt.xhtml"/>
+		<itemref idref="what-men-live-by.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
