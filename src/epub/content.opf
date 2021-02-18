@@ -61,6 +61,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51708</dc:source>
 		<dc:source>https://archive.org/details/tolstoiforyoung00tols</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Twenty-three_Tales</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Diary_of_a_Lunatic</dc:source>
+		<dc:source>https://archive.org/details/completeworksco02unkngoog</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -122,6 +124,14 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-7">https://id.loc.gov/authorities/names/n93115501</meta>
 		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-8">Hagberg Wright</dc:contributor>
+		<meta property="file-as" refines="#translator-8">Wright, Hagberg</meta>
+		<meta property="se:name.person.full-name" refines="#translator-8">Charles Theodore Hagberg Wright</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/Charles_Theodore_Hagberg_Wright</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-8">https://id.loc.gov/authorities/names/no94013862</meta>
+		<meta property="display-seq" refines="#translator-8">8</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
@@ -189,6 +199,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/lucerne.xhtml" id="lucerne.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/meeting-a-moscow-acquaintance-in-the-detachment.xhtml" id="meeting-a-moscow-acquaintance-in-the-detachment.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/memoirs-of-a-lunatic.xhtml" id="memoirs-of-a-lunatic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/milton-and-bulka.xhtml" id="milton-and-bulka.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/natural-science-stories.xhtml" id="natural-science-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pheasants.xhtml" id="pheasants.xhtml" media-type="application/xhtml+xml"/>
@@ -263,6 +274,7 @@
 		<itemref idref="god-sees-the-truth-but-waits.xhtml"/>
 		<itemref idref="the-bear-hunt.xhtml"/>
 		<itemref idref="what-men-live-by.xhtml"/>
+		<itemref idref="memoirs-of-a-lunatic.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
