@@ -51,6 +51,20 @@ p span.i1{
 }
 /* End bridgehead CSS */
 
+/* All epigraphs */
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+/* End all epigraphs */
+
 footer{
 	margin-top: 1em;
 	text-align: right;
