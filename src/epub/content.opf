@@ -48,21 +48,32 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!--The Cossacks and Other Tales of the Caucasus-->
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.97297</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/41119</dc:source>
+		<!--A Russian Proprietor-->
 		<dc:source>https://catalog.hathitrust.org/Record/008634081</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/41119</dc:source>
+		<!--Sevastopol-->
 		<dc:source>https://catalog.hathitrust.org/Record/101834927</dc:source>
+		<!--The Death of Ivan Ilyitch and Other Stories-->
 		<dc:source>https://catalog.hathitrust.org/Record/102113914</dc:source>
-		<dc:source>https://en.wikisource.org/wiki/Family_Happiness</dc:source>
+		<!--The Kreutzer Sonata-->
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.149072</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Family_Happiness</dc:source>
+		<!--In the Days of Serfdom and Other Stories-->
 		<dc:source>https://catalog.hathitrust.org/Record/008973985</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/38025</dc:source>
+		<!--The Complete Works of Count Tolstóy Vol. XII-->
 		<dc:source>https://archive.org/details/completeworksofc12tols</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/51708</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/38025</dc:source>
+		<!--Tolstoi for the Young-->
 		<dc:source>https://archive.org/details/tolstoiforyoung00tols</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51708</dc:source>
+		<!--Twenty-Three Tales-->
 		<dc:source>https://en.wikisource.org/wiki/Twenty-three_Tales</dc:source>
-		<dc:source>https://en.wikisource.org/wiki/Diary_of_a_Lunatic</dc:source>
+		<!--Father Sergius-->
 		<dc:source>https://archive.org/details/completeworksco02unkngoog</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Diary_of_a_Lunatic</dc:source>
+		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
