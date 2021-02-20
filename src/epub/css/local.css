@@ -66,7 +66,8 @@ p span.i1{
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"],
+section > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
@@ -78,7 +79,8 @@ article > header [epub|type~="epigraph"] + *{
 }
 
 @supports(display: table){
-	article > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"],
+	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
