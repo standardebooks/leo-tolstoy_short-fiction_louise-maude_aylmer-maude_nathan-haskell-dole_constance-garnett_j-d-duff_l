@@ -232,6 +232,7 @@
 		<item href="text/the-porcelain-doll.xhtml" id="the-porcelain-doll.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-raid.xhtml" id="the-raid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-snowstorm.xhtml" id="the-snowstorm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-story-of-ivan-the-fool.xhtml" id="the-story-of-ivan-the-fool.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-turtle.xhtml" id="the-turtle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willow.xhtml" id="the-willow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-felling.xhtml" id="the-wood-felling.xhtml" media-type="application/xhtml+xml"/>
@@ -290,6 +291,7 @@
 		<itemref idref="memoirs-of-a-lunatic.xhtml"/>
 		<itemref idref="a-spark-neglected-burns-the-house.xhtml"/>
 		<itemref idref="two-old-men.xhtml"/>
+		<itemref idref="the-story-of-ivan-the-fool.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
