@@ -240,6 +240,7 @@
 		<item href="text/the-raid.xhtml" id="the-raid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-snowstorm.xhtml" id="the-snowstorm.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-ivan-the-fool.xhtml" id="the-story-of-ivan-the-fool.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-three-hermits.xhtml" id="the-three-hermits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-turtle.xhtml" id="the-turtle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willow.xhtml" id="the-willow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-felling.xhtml" id="the-wood-felling.xhtml" media-type="application/xhtml+xml"/>
@@ -305,6 +306,7 @@
 		<itemref idref="little-girls-wiser-than-men.xhtml"/>
 		<itemref idref="ilyas.xhtml"/>
 		<itemref idref="croesus-and-solon.xhtml"/>
+		<itemref idref="the-three-hermits.xhtml"/>
 		<itemref idref="the-godson.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
