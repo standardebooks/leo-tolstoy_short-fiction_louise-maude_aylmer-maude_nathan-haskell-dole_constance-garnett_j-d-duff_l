@@ -234,6 +234,7 @@
 		<item href="text/the-godson.xhtml" id="the-godson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-gray-hare.xhtml" id="the-gray-hare.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-great-bear.xhtml" id="the-great-bear.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-imp-and-the-crust.xhtml" id="the-imp-and-the-crust.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-old-horse.xhtml" id="the-old-horse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peasant-and-the-cucumbers.xhtml" id="the-peasant-and-the-cucumbers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-porcelain-doll.xhtml" id="the-porcelain-doll.xhtml" media-type="application/xhtml+xml"/>
@@ -307,6 +308,7 @@
 		<itemref idref="ilyas.xhtml"/>
 		<itemref idref="croesus-and-solon.xhtml"/>
 		<itemref idref="the-three-hermits.xhtml"/>
+		<itemref idref="the-imp-and-the-crust.xhtml"/>
 		<itemref idref="the-godson.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
