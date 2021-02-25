@@ -75,6 +75,9 @@
 		<dc:source>https://en.wikisource.org/wiki/Diary_of_a_Lunatic</dc:source>
 		<!--Master and Man and Other Tales-->
 		<dc:source>https://archive.org/details/mastermanotherpa00tols</dc:source>
+		<!--The Kreutzer Sonata and Other Stories-->
+		<dc:source>https://catalog.hathitrust.org/Record/007126104</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/689</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -145,6 +148,13 @@
 		<meta property="display-seq" refines="#translator-8">8</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
+		<dc:contributor id="translator-9">Benjamin R. Tucker</dc:contributor>
+		<meta property="file-as" refines="#translator-9">Tucker, Benjamin R.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-9">Benjamin Ricketson Tucker</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-9">https://en.wikipedia.org/wiki/Benjamin_Tucker</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-9">https://id.loc.gov/authorities/names/n50012630</meta>
+		<meta property="display-seq" refines="#translator-9">9</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
@@ -155,6 +165,7 @@
 		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://pgdp.net</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-1">https://en.wikipedia.org/wiki/Distributed_Proofreaders</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sankar Viswanathan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Viswanathan, Sankar</meta>
@@ -174,8 +185,14 @@
 		<meta property="file-as" refines="#transcriber-6">László, Albert</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-7">Chuck Greif</dc:contributor>
-		<meta property="file-as" refines="#transcriber-7">Chuck Greif</meta>
+		<meta property="file-as" refines="#transcriber-7">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Judith Boss</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Boss, Judith</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-9">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-9">Widger, David</meta>
+		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
@@ -230,6 +247,7 @@
 		<item href="text/sevastopol-in-may-1855.xhtml" id="sevastopol-in-may-1855.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol.xhtml" id="sevastopol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bear-hunt.xhtml" id="the-bear-hunt.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-candle.xhtml" id="the-candle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decembrists.xhtml" id="the-decembrists.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fire.xhtml" id="the-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-foundling.xhtml" id="the-foundling.xhtml" media-type="application/xhtml+xml"/>
@@ -316,6 +334,7 @@
 		<itemref idref="a-grain-as-big-as-a-hens-egg.xhtml"/>
 		<itemref idref="the-godson.xhtml"/>
 		<itemref idref="the-repentant-sinner.xhtml"/>
+		<itemref idref="the-candle.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
