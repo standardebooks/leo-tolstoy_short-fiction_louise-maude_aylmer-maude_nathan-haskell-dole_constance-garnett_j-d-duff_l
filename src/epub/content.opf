@@ -155,6 +155,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-9">https://id.loc.gov/authorities/names/n50012630</meta>
 		<meta property="display-seq" refines="#translator-9">9</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
