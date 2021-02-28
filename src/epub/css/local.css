@@ -86,13 +86,18 @@ article > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
 #lucerne header p{
-	font-variant: small-caps;
 	text-align: right;
 }
 
