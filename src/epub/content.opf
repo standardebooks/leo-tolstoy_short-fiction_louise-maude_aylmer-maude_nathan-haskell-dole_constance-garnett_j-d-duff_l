@@ -305,7 +305,6 @@
 		<itemref idref="two-hussars.xhtml"/>
 		<itemref idref="three-deaths.xhtml"/>
 		<itemref idref="family-happiness.xhtml"/>
-		<itemref idref="kholstomir.xhtml"/>
 		<itemref idref="polikoushka.xhtml"/>
 		<itemref idref="the-porcelain-doll.xhtml"/>
 		<itemref idref="the-decembrists.xhtml"/>
@@ -349,6 +348,7 @@
 		<itemref idref="the-repentant-sinner.xhtml"/>
 		<itemref idref="the-candle.xhtml"/>
 		<itemref idref="the-death-of-ivan-ilyitch.xhtml"/>
+		<itemref idref="kholstomir.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
