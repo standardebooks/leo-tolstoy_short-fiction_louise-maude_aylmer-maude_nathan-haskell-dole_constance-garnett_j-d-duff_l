@@ -60,6 +60,7 @@
 		<!--The Kreutzer Sonata-->
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.149072</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Family_Happiness</dc:source>
+		<dc:source>https://www.mobileread.com/forums/showthread.php?t=279993</dc:source>
 		<!--In the Days of Serfdom and Other Stories-->
 		<dc:source>https://catalog.hathitrust.org/Record/008973985</dc:source>
 		<!--The Complete Works of Count Tolstóy Vol. XII-->
@@ -203,6 +204,12 @@
 		<dc:contributor id="transcriber-11">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-11">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-11" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-12">Alex Bell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-12">Bell, Alex</meta>
+		<meta property="role" refines="#transcriber-12" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-13">The Tolstoy Library OnLine</dc:contributor>
+		<meta property="file-as" refines="#transcriber-13">Tolstoy Library OnLine, The</meta>
+		<meta property="role" refines="#transcriber-13" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
@@ -267,6 +274,7 @@
 		<item href="text/the-gray-hare.xhtml" id="the-gray-hare.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-great-bear.xhtml" id="the-great-bear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-imp-and-the-crust.xhtml" id="the-imp-and-the-crust.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-kreutzer-sonata.xhtml" id="the-kreutzer-sonata.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-old-horse.xhtml" id="the-old-horse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peasant-and-the-cucumbers.xhtml" id="the-peasant-and-the-cucumbers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-porcelain-doll.xhtml" id="the-porcelain-doll.xhtml" media-type="application/xhtml+xml"/>
@@ -349,6 +357,7 @@
 		<itemref idref="the-candle.xhtml"/>
 		<itemref idref="the-death-of-ivan-ilyitch.xhtml"/>
 		<itemref idref="kholstomir.xhtml"/>
+		<itemref idref="the-kreutzer-sonata.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
