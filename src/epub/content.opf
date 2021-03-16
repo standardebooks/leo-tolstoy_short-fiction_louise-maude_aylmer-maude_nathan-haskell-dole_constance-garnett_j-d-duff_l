@@ -82,6 +82,8 @@
 		<!--The Invaders and Other Stories-->
 		<dc:source>https://archive.org/details/invadersothersto00tolsrich</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/56797</dc:source>
+		<!--The Novels and Other Works of Lyov N. Tolstoï Vol. XV-->
+		<dc:source>https://catalog.hathitrust.org/Record/011726151</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -160,6 +162,12 @@
 		<meta property="display-seq" refines="#translator-9">9</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
+		<dc:contributor id="translator-10">Everyman’s Library</dc:contributor>
+		<meta property="file-as" refines="#translator-10">Everyman’s Library</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-10">https://en.wikipedia.org/wiki/Everyman%27s_Library</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-10">https://id.loc.gov/authorities/names/no2001015896</meta>
+		<meta property="display-seq" refines="#translator-10">10</meta>
+		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
@@ -244,6 +252,7 @@
 		<item href="text/ermak.xhtml" id="ermak.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/evil-allures-but-good-endures.xhtml" id="evil-allures-but-good-endures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/family-happiness.xhtml" id="family-happiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hindu-fables.xhtml" id="hindu-fables.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-i-learned-to-ride.xhtml" id="how-i-learned-to-ride.xhtml" media-type="application/xhtml+xml"/>
@@ -317,6 +326,7 @@
 		<itemref idref="the-porcelain-doll.xhtml"/>
 		<itemref idref="the-decembrists.xhtml"/>
 		<itemref idref="hindu-fables.xhtml"/>
+		<itemref idref="from-the-new-speller.xhtml"/>
 		<itemref idref="the-great-bear.xhtml"/>
 		<itemref idref="the-foundling.xhtml"/>
 		<itemref idref="the-peasant-and-the-cucumbers.xhtml"/>
