@@ -82,6 +82,8 @@
 		<!--The Invaders and Other Stories-->
 		<dc:source>https://archive.org/details/invadersothersto00tolsrich</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/56797</dc:source>
+		<!--The Novels and Other Works of Lyov N. Tolstoï Vol. XV-->
+		<dc:source>https://catalog.hathitrust.org/Record/011726151</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -244,6 +246,7 @@
 		<item href="text/ermak.xhtml" id="ermak.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/evil-allures-but-good-endures.xhtml" id="evil-allures-but-good-endures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/family-happiness.xhtml" id="family-happiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hindu-fables.xhtml" id="hindu-fables.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-i-learned-to-ride.xhtml" id="how-i-learned-to-ride.xhtml" media-type="application/xhtml+xml"/>
@@ -317,6 +320,7 @@
 		<itemref idref="the-porcelain-doll.xhtml"/>
 		<itemref idref="the-decembrists.xhtml"/>
 		<itemref idref="hindu-fables.xhtml"/>
+		<itemref idref="from-the-new-speller.xhtml"/>
 		<itemref idref="the-great-bear.xhtml"/>
 		<itemref idref="the-foundling.xhtml"/>
 		<itemref idref="the-peasant-and-the-cucumbers.xhtml"/>
