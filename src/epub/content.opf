@@ -61,6 +61,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.149072</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Family_Happiness</dc:source>
 		<dc:source>https://www.mobileread.com/forums/showthread.php?t=279993</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/The_Devil</dc:source>
 		<!--In the Days of Serfdom and Other Stories-->
 		<dc:source>https://catalog.hathitrust.org/Record/008973985</dc:source>
 		<!--The Complete Works of Count Tolstóy Vol. XII-->
@@ -277,6 +278,7 @@
 		<item href="text/the-candle.xhtml" id="the-candle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-death-of-ivan-ilyitch.xhtml" id="the-death-of-ivan-ilyitch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decembrists.xhtml" id="the-decembrists.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-devil.xhtml" id="the-devil.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fire.xhtml" id="the-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-foundling.xhtml" id="the-foundling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-godson.xhtml" id="the-godson.xhtml" media-type="application/xhtml+xml"/>
@@ -368,6 +370,7 @@
 		<itemref idref="the-death-of-ivan-ilyitch.xhtml"/>
 		<itemref idref="kholstomir.xhtml"/>
 		<itemref idref="the-kreutzer-sonata.xhtml"/>
+		<itemref idref="the-devil.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
