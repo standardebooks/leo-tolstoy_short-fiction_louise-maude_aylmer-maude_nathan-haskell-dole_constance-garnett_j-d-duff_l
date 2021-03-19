@@ -253,6 +253,7 @@
 		<item href="text/ermak.xhtml" id="ermak.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/evil-allures-but-good-endures.xhtml" id="evil-allures-but-good-endures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/family-happiness.xhtml" id="family-happiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/francoise.xhtml" id="francoise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hindu-fables.xhtml" id="hindu-fables.xhtml" media-type="application/xhtml+xml"/>
@@ -371,6 +372,7 @@
 		<itemref idref="kholstomir.xhtml"/>
 		<itemref idref="the-kreutzer-sonata.xhtml"/>
 		<itemref idref="the-devil.xhtml"/>
+		<itemref idref="francoise.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
