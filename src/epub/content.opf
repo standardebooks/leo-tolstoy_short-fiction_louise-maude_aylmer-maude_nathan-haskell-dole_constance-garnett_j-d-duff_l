@@ -280,6 +280,7 @@
 		<item href="text/the-death-of-ivan-ilyitch.xhtml" id="the-death-of-ivan-ilyitch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decembrists.xhtml" id="the-decembrists.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-devil.xhtml" id="the-devil.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-empty-drum.xhtml" id="the-empty-drum.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fire.xhtml" id="the-fire.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-foundling.xhtml" id="the-foundling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-godson.xhtml" id="the-godson.xhtml" media-type="application/xhtml+xml"/>
@@ -373,6 +374,7 @@
 		<itemref idref="the-kreutzer-sonata.xhtml"/>
 		<itemref idref="the-devil.xhtml"/>
 		<itemref idref="francoise.xhtml"/>
+		<itemref idref="the-empty-drum.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
