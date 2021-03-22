@@ -278,6 +278,7 @@
 		<item href="text/sevastopol.xhtml" id="sevastopol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bear-hunt.xhtml" id="the-bear-hunt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-candle.xhtml" id="the-candle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coffeehouse-of-surat.xhtml" id="the-coffeehouse-of-surat.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-death-of-ivan-ilyitch.xhtml" id="the-death-of-ivan-ilyitch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-decembrists.xhtml" id="the-decembrists.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-devil.xhtml" id="the-devil.xhtml" media-type="application/xhtml+xml"/>
@@ -379,6 +380,7 @@
 		<itemref idref="francoise.xhtml"/>
 		<itemref idref="the-empty-drum.xhtml"/>
 		<itemref idref="a-dialogue-among-clever-people.xhtml"/>
+		<itemref idref="the-coffeehouse-of-surat.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
