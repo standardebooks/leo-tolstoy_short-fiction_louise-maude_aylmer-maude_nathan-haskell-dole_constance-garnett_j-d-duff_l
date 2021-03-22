@@ -305,6 +305,7 @@
 		<item href="text/two-hussars.xhtml" id="two-hussars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/two-old-men.xhtml" id="two-old-men.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/walk-in-the-light-while-there-is-light.xhtml" id="walk-in-the-light-while-there-is-light.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-happened-to-bulka-in-pyatigorsk.xhtml" id="what-happened-to-bulka-in-pyatigorsk.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-men-live-by.xhtml" id="what-men-live-by.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/where-love-is-god-is.xhtml" id="where-love-is-god-is.xhtml" media-type="application/xhtml+xml"/>
@@ -372,6 +373,7 @@
 		<itemref idref="the-candle.xhtml"/>
 		<itemref idref="the-death-of-ivan-ilyitch.xhtml"/>
 		<itemref idref="kholstomir.xhtml"/>
+		<itemref idref="walk-in-the-light-while-there-is-light.xhtml"/>
 		<itemref idref="the-kreutzer-sonata.xhtml"/>
 		<itemref idref="the-devil.xhtml"/>
 		<itemref idref="francoise.xhtml"/>
