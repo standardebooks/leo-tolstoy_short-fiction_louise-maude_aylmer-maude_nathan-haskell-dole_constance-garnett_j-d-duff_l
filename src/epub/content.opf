@@ -85,6 +85,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/56797</dc:source>
 		<!--The Novels and Other Works of Lyov N. Tolstoï Vol. XV-->
 		<dc:source>https://catalog.hathitrust.org/Record/011726151</dc:source>
+		<!--The Forged Coupon-->
+		<dc:source>https://catalog.hathitrust.org/Record/007124838</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/243</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -301,6 +304,7 @@
 		<item href="text/the-turtle.xhtml" id="the-turtle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-willow.xhtml" id="the-willow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-felling.xhtml" id="the-wood-felling.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-young-tsar.xhtml" id="the-young-tsar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-deaths.xhtml" id="three-deaths.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/two-hussars.xhtml" id="two-hussars.xhtml" media-type="application/xhtml+xml"/>
@@ -381,6 +385,7 @@
 		<itemref idref="the-empty-drum.xhtml"/>
 		<itemref idref="a-dialogue-among-clever-people.xhtml"/>
 		<itemref idref="the-coffeehouse-of-surat.xhtml"/>
+		<itemref idref="the-young-tsar.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
