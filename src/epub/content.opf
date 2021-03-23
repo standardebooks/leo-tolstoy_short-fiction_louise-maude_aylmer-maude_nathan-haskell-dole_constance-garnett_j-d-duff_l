@@ -88,6 +88,9 @@
 		<!--The Forged Coupon and Other Stories-->
 		<dc:source>https://catalog.hathitrust.org/Record/007124838</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/243</dc:source>
+		<!--Ivan Ilych and Hadji Murad and Other Stories-->
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.41079</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/986</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -268,6 +271,7 @@
 		<item href="text/kholstomir.xhtml" id="kholstomir.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/little-girls-wiser-than-men.xhtml" id="little-girls-wiser-than-men.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lucerne.xhtml" id="lucerne.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/master-and-man.xhtml" id="master-and-man.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/meeting-a-moscow-acquaintance-in-the-detachment.xhtml" id="meeting-a-moscow-acquaintance-in-the-detachment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/memoirs-of-a-lunatic.xhtml" id="memoirs-of-a-lunatic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/milton-and-bulka.xhtml" id="milton-and-bulka.xhtml" media-type="application/xhtml+xml"/>
@@ -386,6 +390,7 @@
 		<itemref idref="a-dialogue-among-clever-people.xhtml"/>
 		<itemref idref="the-coffeehouse-of-surat.xhtml"/>
 		<itemref idref="the-young-tsar.xhtml"/>
+		<itemref idref="master-and-man.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
