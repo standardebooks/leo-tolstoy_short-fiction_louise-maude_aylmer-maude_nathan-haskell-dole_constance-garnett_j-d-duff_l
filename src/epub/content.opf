@@ -92,6 +92,8 @@
 		<!--Ivan Ilych and Hadji Murad and Other Stories-->
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.41079</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/986</dc:source>
+		<!--The Overthrow of Hell and Its Restoration-->
+		<dc:source>https://opensiuc.lib.siu.edu/ocj/vol1903/iss6</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -176,6 +178,20 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-10">https://id.loc.gov/authorities/names/no2001015896</meta>
 		<meta property="display-seq" refines="#translator-10">10</meta>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-11">Vladimir Chertkov</dc:contributor>
+		<meta property="file-as" refines="#translator-11">Chertkov, Vladimir</meta>
+		<meta property="se:name.person.full-name" refines="#translator-11">Vladimir Grigoryevich Chertkov</meta>
+		<meta property="alternate-script" refines="#translator-11">Влади́мир Григо́рьевич Чертко́в</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-11">https://en.wikipedia.org/wiki/Vladimir_Chertkov</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-11">https://id.loc.gov/authorities/names/n84114431</meta>
+		<meta property="display-seq" refines="#translator-11">11</meta>
+		<meta property="role" refines="#translator-11" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-12">Isabella Fyvie Mayo</dc:contributor>
+		<meta property="file-as" refines="#translator-12">Mayo, Isabella Fyvie</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-12">https://en.wikipedia.org/wiki/Isabella_Fyvie_Mayo</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-12">https://id.loc.gov/authorities/names/n90670734</meta>
+		<meta property="display-seq" refines="#translator-12">12</meta>
+		<meta property="role" refines="#translator-12" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
@@ -300,6 +316,7 @@
 		<item href="text/the-imp-and-the-crust.xhtml" id="the-imp-and-the-crust.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kreutzer-sonata.xhtml" id="the-kreutzer-sonata.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-old-horse.xhtml" id="the-old-horse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-overthrow-of-hell-and-its-restoration.xhtml" id="the-overthrow-of-hell-and-its-restoration.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peasant-and-the-cucumbers.xhtml" id="the-peasant-and-the-cucumbers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-porcelain-doll.xhtml" id="the-porcelain-doll.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-raid.xhtml" id="the-raid.xhtml" media-type="application/xhtml+xml"/>
@@ -398,6 +415,7 @@
 		<itemref idref="three-parables.xhtml"/>
 		<itemref idref="too-dear.xhtml"/>
 		<itemref idref="father-sergius.xhtml"/>
+		<itemref idref="the-overthrow-of-hell-and-its-restoration.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
