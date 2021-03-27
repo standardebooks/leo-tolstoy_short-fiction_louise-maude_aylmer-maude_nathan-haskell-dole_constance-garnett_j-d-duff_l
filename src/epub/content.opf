@@ -342,6 +342,7 @@
 		<item href="text/what-happened-to-bulka-in-pyatigorsk.xhtml" id="what-happened-to-bulka-in-pyatigorsk.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-men-live-by.xhtml" id="what-men-live-by.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/where-love-is-god-is.xhtml" id="where-love-is-god-is.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/work-death-and-sickness.xhtml" id="work-death-and-sickness.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
@@ -422,6 +423,7 @@
 		<itemref idref="three-questions.xhtml"/>
 		<itemref idref="after-the-dance.xhtml"/>
 		<itemref idref="esarhaddon-king-of-assyria.xhtml"/>
+		<itemref idref="work-death-and-sickness.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
