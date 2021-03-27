@@ -80,6 +80,7 @@
 		<!--The Kreutzer Sonata and Other Stories-->
 		<dc:source>https://catalog.hathitrust.org/Record/007126104</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/689</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/985</dc:source>
 		<!--The Invaders and Other Stories-->
 		<dc:source>https://archive.org/details/invadersothersto00tolsrich</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/56797</dc:source>
@@ -260,6 +261,7 @@
 		<item href="text/ermak.xhtml" id="ermak.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/evil-allures-but-good-endures.xhtml" id="evil-allures-but-good-endures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/family-happiness.xhtml" id="family-happiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/father-sergius.xhtml" id="father-sergius.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/francoise.xhtml" id="francoise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
@@ -395,6 +397,7 @@
 		<itemref idref="master-and-man.xhtml"/>
 		<itemref idref="three-parables.xhtml"/>
 		<itemref idref="too-dear.xhtml"/>
+		<itemref idref="father-sergius.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
