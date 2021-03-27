@@ -276,6 +276,7 @@
 		<item href="text/croesus-and-solon.xhtml" id="croesus-and-solon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ermak.xhtml" id="ermak.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/esarhaddon-king-of-assyria.xhtml" id="esarhaddon-king-of-assyria.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/evil-allures-but-good-endures.xhtml" id="evil-allures-but-good-endures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/family-happiness.xhtml" id="family-happiness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/father-sergius.xhtml" id="father-sergius.xhtml" media-type="application/xhtml+xml"/>
@@ -420,6 +421,7 @@
 		<itemref idref="the-overthrow-of-hell-and-its-restoration.xhtml"/>
 		<itemref idref="three-questions.xhtml"/>
 		<itemref idref="after-the-dance.xhtml"/>
+		<itemref idref="esarhaddon-king-of-assyria.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
