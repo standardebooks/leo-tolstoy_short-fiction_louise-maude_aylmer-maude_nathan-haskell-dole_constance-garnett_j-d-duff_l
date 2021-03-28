@@ -268,6 +268,7 @@
 		<item href="text/a-spark-neglected-burns-the-house.xhtml" id="a-spark-neglected-burns-the-house.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/after-the-dance.xhtml" id="after-the-dance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/albert.xhtml" id="albert.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/alyosha-the-pot.xhtml" id="alyosha-the-pot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bulka-and-the-wild-boar.xhtml" id="bulka-and-the-wild-boar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bulka-and-the-wolf.xhtml" id="bulka-and-the-wolf.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bulka.xhtml" id="bulka.xhtml" media-type="application/xhtml+xml"/>
@@ -424,6 +425,7 @@
 		<itemref idref="after-the-dance.xhtml"/>
 		<itemref idref="esarhaddon-king-of-assyria.xhtml"/>
 		<itemref idref="work-death-and-sickness.xhtml"/>
+		<itemref idref="alyosha-the-pot.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
