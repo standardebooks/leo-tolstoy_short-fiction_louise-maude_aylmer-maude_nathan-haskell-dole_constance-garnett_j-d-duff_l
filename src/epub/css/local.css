@@ -110,6 +110,12 @@ footer{
 	break-after: page;
 }
 
+#the-posthumous-papers-of-the-hermit-fedor-kusmich-2 header [epub|type~="se:diary.dateline"] time{
+	text-indent 1em;
+	padding-left: 0;
+	padding-right: 2em;
+}
+
 #god-sees-the-truth-but-waits footer,
 #a-prisoner-in-the-caucasus footer,
 #the-bear-hunt footer,
