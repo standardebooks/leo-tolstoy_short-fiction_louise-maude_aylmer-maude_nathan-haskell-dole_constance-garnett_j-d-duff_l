@@ -86,6 +86,10 @@ article > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
+header [epub|type~="se:diary.dateline"]{
+	text-align: right;
+}
+
 section > header [epub|type~="title"]{
 	font-variant: small-caps;
 	margin: 1em;
@@ -98,7 +102,6 @@ footer{
 }
 
 #lucerne header p{
-	font-variant: small-caps;
 	text-align: right;
 }
 
@@ -107,9 +110,16 @@ footer{
 	break-after: page;
 }
 
+#the-posthumous-papers-of-the-hermit-fedor-kusmich-2 header [epub|type~="se:diary.dateline"] time{
+	text-indent 1em;
+	padding-left: 0;
+	padding-right: 2em;
+}
+
 #god-sees-the-truth-but-waits footer,
 #a-prisoner-in-the-caucasus footer,
-#the-bear-hunt footer{
+#the-bear-hunt footer,
+#the-posthumous-papers-of-the-hermit-fedor-kusmich footer{
 	text-align: center;
 	font-style: italic;
 }

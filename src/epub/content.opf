@@ -322,6 +322,7 @@
 		<item href="text/the-overthrow-of-hell-and-its-restoration.xhtml" id="the-overthrow-of-hell-and-its-restoration.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peasant-and-the-cucumbers.xhtml" id="the-peasant-and-the-cucumbers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-porcelain-doll.xhtml" id="the-porcelain-doll.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-posthumous-papers-of-the-hermit-fedor-kusmich.xhtml" id="the-posthumous-papers-of-the-hermit-fedor-kusmich.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-raid.xhtml" id="the-raid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-repentant-sinner.xhtml" id="the-repentant-sinner.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-snowstorm.xhtml" id="the-snowstorm.xhtml" media-type="application/xhtml+xml"/>
@@ -426,6 +427,7 @@
 		<itemref idref="esarhaddon-king-of-assyria.xhtml"/>
 		<itemref idref="work-death-and-sickness.xhtml"/>
 		<itemref idref="alyosha-the-pot.xhtml"/>
+		<itemref idref="the-posthumous-papers-of-the-hermit-fedor-kusmich.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
