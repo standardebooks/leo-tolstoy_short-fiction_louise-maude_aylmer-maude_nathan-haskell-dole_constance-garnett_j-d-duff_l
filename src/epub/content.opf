@@ -263,6 +263,7 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-dialogue-among-clever-people.xhtml" id="a-dialogue-among-clever-people.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-grain-as-big-as-a-hens-egg.xhtml" id="a-grain-as-big-as-a-hens-egg.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-prayer.xhtml" id="a-prayer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-prisoner-in-the-caucasus.xhtml" id="a-prisoner-in-the-caucasus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-russian-proprietor.xhtml" id="a-russian-proprietor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-spark-neglected-burns-the-house.xhtml" id="a-spark-neglected-burns-the-house.xhtml" media-type="application/xhtml+xml"/>
@@ -428,6 +429,7 @@
 		<itemref idref="work-death-and-sickness.xhtml"/>
 		<itemref idref="alyosha-the-pot.xhtml"/>
 		<itemref idref="the-posthumous-papers-of-the-hermit-fedor-kusmich.xhtml"/>
+		<itemref idref="a-prayer.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
