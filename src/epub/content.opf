@@ -285,6 +285,7 @@
 		<item href="text/francoise.xhtml" id="francoise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gods-way-and-mans.xhtml" id="gods-way-and-mans.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hindu-fables.xhtml" id="hindu-fables.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-i-learned-to-ride.xhtml" id="how-i-learned-to-ride.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-much-land-does-a-man-need.xhtml" id="how-much-land-does-a-man-need.xhtml" media-type="application/xhtml+xml"/>
@@ -436,6 +437,7 @@
 		<itemref idref="korney-vasilyef.xhtml"/>
 		<itemref idref="strawberries.xhtml"/>
 		<itemref idref="why.xhtml"/>
+		<itemref idref="gods-way-and-mans.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
