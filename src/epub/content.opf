@@ -336,6 +336,7 @@
 		<item href="text/the-willow.xhtml" id="the-willow.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-wood-felling.xhtml" id="the-wood-felling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-young-tsar.xhtml" id="the-young-tsar.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/there-are-no-guilty-people.xhtml" id="there-are-no-guilty-people.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-deaths.xhtml" id="three-deaths.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-parables.xhtml" id="three-parables.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-questions.xhtml" id="three-questions.xhtml" media-type="application/xhtml+xml"/>
@@ -438,6 +439,7 @@
 		<itemref idref="strawberries.xhtml"/>
 		<itemref idref="why.xhtml"/>
 		<itemref idref="gods-way-and-mans.xhtml"/>
+		<itemref idref="there-are-no-guilty-people.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
