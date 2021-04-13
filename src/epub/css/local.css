@@ -127,6 +127,7 @@ table[epub|type~="z3998:drama"]{
 }
 
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
+[epub|type~="z3998:stage-direction"] b,
 em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
@@ -146,7 +147,7 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p{
+article[epub|type~="z3998:drama"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
