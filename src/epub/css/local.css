@@ -150,6 +150,26 @@ section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
+
+[epub|type~="z3998:dramatis-personae"]{
+	text-align: center;
+}
+
+
+ul[epub|type~="z3998:dramatis-personae"]{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul[epub|type~="z3998:dramatis-personae"] li{
+	font-style: italic;
+	margin: 1em;
+}
+
+ul[epub|type~="z3998:dramatis-personae"] + table{
+	margin-top: 2em;
+}
 /* End drama CSS */
 
 header [epub|type~="se:diary.dateline"]{
