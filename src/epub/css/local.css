@@ -126,7 +126,7 @@ table[epub|type~="z3998:drama"]{
 	font-style: italic;
 }
 
-[epub|type~="z3998:dramatis-personae"] [epub|type~="z3998:stage-direction"],
+[epub|type~="z3998:dramatis-personae"] i,
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
 [epub|type~="z3998:stage-direction"] b,
 em [epub|type~="z3998:persona"],
@@ -168,6 +168,7 @@ ul[epub|type~="z3998:dramatis-personae"] li{
 	margin: 1em;
 }
 
+ul[epub|type~="z3998:dramatis-personae"] + p,
 ul[epub|type~="z3998:dramatis-personae"] + table{
 	margin-top: 2em;
 }
