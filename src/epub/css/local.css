@@ -126,7 +126,6 @@ table[epub|type~="z3998:drama"]{
 	font-style: italic;
 }
 
-
 [epub|type~="z3998:dramatis-personae"] [epub|type~="z3998:stage-direction"],
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
 [epub|type~="z3998:stage-direction"] b,
@@ -157,7 +156,6 @@ article[epub|type~="z3998:drama"] > p{
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
-
 
 ul[epub|type~="z3998:dramatis-personae"]{
 	list-style: none;
