@@ -87,8 +87,7 @@ article > header [epub|type~="epigraph"] + *{
 /* End epigraphs in section headers */
 
 /* Begin drama CSS */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -129,7 +128,6 @@ table[epub|type~="z3998:drama"]{
 [epub|type~="z3998:dramatis-personae"] i,
 [epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
 [epub|type~="z3998:stage-direction"] b,
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
@@ -182,14 +180,8 @@ tr.together td{
 	vertical-align: middle;
 }
 
-tr.together td:only-child,
 tr.together td + td{
 	border-left: 1px solid;
-}
-
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
