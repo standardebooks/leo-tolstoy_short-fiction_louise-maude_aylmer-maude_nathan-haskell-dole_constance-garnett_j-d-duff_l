@@ -105,7 +105,7 @@
 		<meta property="se:name.person.full-name" refines="#author">Lev Nikolayevich Tolstoy</meta>
 		<meta property="alternate-script" refines="#author">Лев Николаевич Толстой</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leo_Tolstoy</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79068416</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79068416</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-1">Louise Maude</dc:contributor>
@@ -125,7 +125,7 @@
 		<dc:contributor id="translator-3">Nathan Haskell Dole</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Dole, Nathan Haskell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Nathan_Haskell_Dole</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-3">https://id.loc.gov/authorities/names/n50027251</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n50027251</meta>
 		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator-3" scheme="marc:relators">ann</meta>
@@ -133,34 +133,34 @@
 		<meta property="file-as" refines="#translator-4">Garnett, Constance</meta>
 		<meta property="se:name.person.full-name" refines="#translator-4">Constance Clara Garnett</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-4">https://id.loc.gov/authorities/names/n50015174</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n50015174</meta>
 		<meta property="display-seq" refines="#translator-4">4</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">J. D. Duff</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Duff, J. D.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-5">James Duff Duff</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-5">https://en.wikipedia.org/wiki/James_Duff_Duff</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-5">https://id.loc.gov/authorities/names/n50026939</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n50026939</meta>
 		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">Leo Weiner</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Weiner, Leo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/Leo_Wiener</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-6">https://id.loc.gov/authorities/names/n50016211</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-6">http://id.loc.gov/authorities/names/n50016211</meta>
 		<meta property="display-seq" refines="#translator-6">6</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator-6" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-7">R. S. Townsend</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Townsend, R. S.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-7">Rochelle Slavyanskaia Townsend</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-7">https://id.loc.gov/authorities/names/n93115501</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/n93115501</meta>
 		<meta property="display-seq" refines="#translator-7">7</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-8">Hagberg Wright</dc:contributor>
 		<meta property="file-as" refines="#translator-8">Wright, Hagberg</meta>
 		<meta property="se:name.person.full-name" refines="#translator-8">Charles Theodore Hagberg Wright</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/Charles_Theodore_Hagberg_Wright</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-8">https://id.loc.gov/authorities/names/no94013862</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/no94013862</meta>
 		<meta property="display-seq" refines="#translator-8">8</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator-8" scheme="marc:relators">ann</meta>
@@ -168,14 +168,14 @@
 		<meta property="file-as" refines="#translator-9">Tucker, Benjamin</meta>
 		<meta property="se:name.person.full-name" refines="#translator-9">Benjamin Ricketson Tucker</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-9">https://en.wikipedia.org/wiki/Benjamin_Tucker</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-9">https://id.loc.gov/authorities/names/n50012630</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n50012630</meta>
 		<meta property="display-seq" refines="#translator-9">9</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator-9" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-10">Everyman’s Library</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Everyman’s Library</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-10">https://en.wikipedia.org/wiki/Everyman%27s_Library</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-10">https://id.loc.gov/authorities/names/no2001015896</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/no2001015896</meta>
 		<meta property="display-seq" refines="#translator-10">10</meta>
 		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-11">Vladimir Chertkov</dc:contributor>
@@ -183,13 +183,13 @@
 		<meta property="se:name.person.full-name" refines="#translator-11">Vladimir Grigoryevich Chertkov</meta>
 		<meta property="alternate-script" refines="#translator-11">Влади́мир Григо́рьевич Чертко́в</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-11">https://en.wikipedia.org/wiki/Vladimir_Chertkov</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-11">https://id.loc.gov/authorities/names/n84114431</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-11">http://id.loc.gov/authorities/names/n84114431</meta>
 		<meta property="display-seq" refines="#translator-11">11</meta>
 		<meta property="role" refines="#translator-11" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-12">Isabella Fyvie Mayo</dc:contributor>
 		<meta property="file-as" refines="#translator-12">Mayo, Isabella Fyvie</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-12">https://en.wikipedia.org/wiki/Isabella_Fyvie_Mayo</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-12">https://id.loc.gov/authorities/names/n90670734</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-12">http://id.loc.gov/authorities/names/n90670734</meta>
 		<meta property="display-seq" refines="#translator-12">12</meta>
 		<meta property="role" refines="#translator-12" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
@@ -197,7 +197,7 @@
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
 		<meta property="alternate-script" refines="#artist">Илья Ефимович Репин</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ilya_Repin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79075231</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79075231</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
