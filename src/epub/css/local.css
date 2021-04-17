@@ -86,6 +86,109 @@ article > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
+/* Begin drama CSS */
+[epub|type~="z3998:drama"] table{
+	border-collapse: collapse;
+	margin: 1em auto;
+	width: 100%;
+}
+
+[epub|type~="z3998:drama"] tr:first-child td{
+	padding-top: 0;
+}
+
+[epub|type~="z3998:drama"] tr:last-child td{
+	padding-bottom: 0;
+}
+
+[epub|type~="z3998:drama"] td{
+	vertical-align: top;
+	padding: .5em;
+}
+
+[epub|type~="z3998:drama"] td:last-child{
+	padding-right: 0;
+}
+
+[epub|type~="z3998:drama"] td:first-child{
+	padding-left: 0;
+}
+
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+	hyphens: none;
+	-epub-hyphens: none;
+	text-align: right;
+	width: 20%;
+}
+
+[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:dramatis-personae"] i,
+[epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
+[epub|type~="z3998:stage-direction"] b,
+i [epub|type~="z3998:persona"]{
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]::before{
+	content: "(";
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]::after{
+	content: ")";
+	font-style: normal;
+}
+
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
+}
+
+article[epub|type~="z3998:drama"] > p{
+	margin: 1em auto;
+	width: 75%;
+}
+
+[epub|type~="z3998:dramatis-personae"]{
+	text-align: center;
+}
+
+ul[epub|type~="z3998:dramatis-personae"]{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul[epub|type~="z3998:dramatis-personae"] li{
+	font-style: italic;
+	margin: 1em;
+}
+
+ul[epub|type~="z3998:dramatis-personae"] + p,
+ul[epub|type~="z3998:dramatis-personae"] + table{
+	margin-top: 2em;
+}
+
+tr.together{
+	break-inside: avoid;
+}
+
+tr.together td{
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
+}
+
+tr.together td + td{
+	border-left: 1px solid;
+}
+
+[epub|type~="z3998:drama"] .together td:last-child{
+	padding-left: .5em;
+}
+/* End drama CSS */
+
 header [epub|type~="se:diary.dateline"]{
 	text-align: right;
 }
@@ -106,7 +209,8 @@ footer{
 }
 
 #hindu-fables article,
-#natural-science-stories article{
+#natural-science-stories article,
+#the-wisdom-of-children article{
 	break-after: page;
 }
 
