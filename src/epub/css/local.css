@@ -209,7 +209,8 @@ footer{
 }
 
 #hindu-fables article,
-#natural-science-stories article{
+#natural-science-stories article,
+#the-wisdom-of-children article{
 	break-after: page;
 }
 
