@@ -142,6 +142,10 @@ i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
 
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
+}
+
 article[epub|type~="z3998:drama"] > p{
 	margin: 1em auto;
 	width: 75%;
