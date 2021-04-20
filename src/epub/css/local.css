@@ -36,7 +36,6 @@ p span.i1{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
