@@ -39,6 +39,10 @@ p span.i1{
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
+
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
 /* End letter CSS */
 
 /* Start bridgehead CSS */
