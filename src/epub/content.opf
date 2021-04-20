@@ -345,6 +345,7 @@
 		<item href="text/too-dear.xhtml" id="too-dear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/two-hussars.xhtml" id="two-hussars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/two-old-men.xhtml" id="two-old-men.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/two-wayfarers.xhtml" id="two-wayfarers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/walk-in-the-light-while-there-is-light.xhtml" id="walk-in-the-light-while-there-is-light.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-happened-to-bulka-in-pyatigorsk.xhtml" id="what-happened-to-bulka-in-pyatigorsk.xhtml" media-type="application/xhtml+xml"/>
@@ -442,6 +443,7 @@
 		<itemref idref="gods-way-and-mans.xhtml"/>
 		<itemref idref="there-are-no-guilty-people.xhtml"/>
 		<itemref idref="the-wisdom-of-children.xhtml"/>
+		<itemref idref="two-wayfarers.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
