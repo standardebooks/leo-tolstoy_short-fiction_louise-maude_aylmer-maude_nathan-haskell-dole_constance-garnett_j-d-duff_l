@@ -323,6 +323,7 @@
 		<item href="text/the-great-bear.xhtml" id="the-great-bear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-imp-and-the-crust.xhtml" id="the-imp-and-the-crust.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kreutzer-sonata.xhtml" id="the-kreutzer-sonata.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-memoirs-of-a-mother.xhtml" id="the-memoirs-of-a-mother.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-old-horse.xhtml" id="the-old-horse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-overthrow-of-hell-and-its-restoration.xhtml" id="the-overthrow-of-hell-and-its-restoration.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-peasant-and-the-cucumbers.xhtml" id="the-peasant-and-the-cucumbers.xhtml" media-type="application/xhtml+xml"/>
@@ -445,6 +446,7 @@
 		<itemref idref="there-are-no-guilty-people.xhtml"/>
 		<itemref idref="the-wisdom-of-children.xhtml"/>
 		<itemref idref="two-wayfarers.xhtml"/>
+		<itemref idref="the-memoirs-of-a-mother.xhtml"/>
 		<itemref idref="khodinka.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
