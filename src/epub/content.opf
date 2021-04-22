@@ -282,6 +282,7 @@
 		<item href="text/evil-allures-but-good-endures.xhtml" id="evil-allures-but-good-endures.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/family-happiness.xhtml" id="family-happiness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/father-sergius.xhtml" id="father-sergius.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/father-vasily.xhtml" id="father-vasily.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/francoise.xhtml" id="francoise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
@@ -448,6 +449,7 @@
 		<itemref idref="two-wayfarers.xhtml"/>
 		<itemref idref="khodinka.xhtml"/>
 		<itemref idref="the-memoirs-of-a-mother.xhtml"/>
+		<itemref idref="father-vasily.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
