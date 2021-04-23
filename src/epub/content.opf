@@ -94,6 +94,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/986</dc:source>
 		<!--The Overthrow of Hell and Its Restoration-->
 		<dc:source>https://opensiuc.lib.siu.edu/ocj/vol1903/iss6</dc:source>
+		<!--Three Days in the Village and Other Sketches-->
+		<dc:source>https://archive.org/details/cu31924027448483</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51018</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
@@ -242,6 +245,9 @@
 		<dc:contributor id="transcriber-13">The Tolstoy Library OnLine</dc:contributor>
 		<meta property="file-as" refines="#transcriber-13">Tolstoy Library OnLine, The</meta>
 		<meta property="role" refines="#transcriber-13" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-14">Carlos Colón</dc:contributor>
+		<meta property="file-as" refines="#transcriber-14">Colón, Caralos</meta>
+		<meta property="role" refines="#transcriber-14" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://weijiarhymeswith.asia</meta>
@@ -341,6 +347,7 @@
 		<item href="text/the-wood-felling.xhtml" id="the-wood-felling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-young-tsar.xhtml" id="the-young-tsar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/there-are-no-guilty-people.xhtml" id="there-are-no-guilty-people.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/three-days-in-the-village.xhtml" id="three-days-in-the-village.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-deaths.xhtml" id="three-deaths.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-parables.xhtml" id="three-parables.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/three-questions.xhtml" id="three-questions.xhtml" media-type="application/xhtml+xml"/>
@@ -450,6 +457,7 @@
 		<itemref idref="khodinka.xhtml"/>
 		<itemref idref="the-memoirs-of-a-mother.xhtml"/>
 		<itemref idref="father-vasily.xhtml"/>
+		<itemref idref="three-days-in-the-village.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
