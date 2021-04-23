@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 340">
-	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Leo Tolstoy</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 950">
+	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Leo Tolstoy. Translated by Louise Maude, Aylmer Maude, Nathan Haskell Dole, Constance Garnett, J. D. Duff, Leo Weiner, R. S. Townsend, Hagberg Wright, Benjamin Tucker, Everyman’s Library, Vladimir Chertkov, and Isabella Fyvie Mayo</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -15,7 +15,26 @@
 		.author{
 			font-size: 70.17543793px;
 		}
+
+		.contributor-descriptor{
+			font-family: "OFL Sorts Mill Goudy";
+			font-size: 42.5079689px;
+			font-style: italic;
+			letter-spacing: 0;
+		}
+
+		.contributor{
+			font-size: 46.78362656px;
+		}
 	</style>
 	<text class="title" x="700" y="130">SHORT FICTION</text>
 	<text class="author" x="700" y="290">LEO TOLSTOY</text>
+	<text class="contributor-descriptor" x="700" y="480">translated by</text>
+	<text class="contributor" x="700" y="540">LOUISE MAUDE, AYLMER MAUDE,</text>
+	<text class="contributor" x="700" y="600">NATHAN HASKELL DOLE, CONSTANCE</text>
+	<text class="contributor" x="700" y="660">GARNETT, J. D. DUFF, LEO WEINER,</text>
+	<text class="contributor" x="700" y="720">R. S. TOWNSEND, HAGBERG WRIGHT,</text>
+	<text class="contributor" x="700" y="780">BENJAMIN TUCKER, EVERYMAN’S</text>
+	<text class="contributor" x="700" y="840">LIBRARY, VLADIMIR CHERTKOV,</text>
+	<text class="contributor" x="700" y="900">AND ISABELLA FYVIE MAYO</text>
 </svg>
