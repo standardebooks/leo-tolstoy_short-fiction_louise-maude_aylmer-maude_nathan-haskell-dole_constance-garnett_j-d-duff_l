@@ -291,6 +291,7 @@
 		<item href="text/father-sergius.xhtml" id="father-sergius.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/father-vasily.xhtml" id="father-vasily.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/francoise.xhtml" id="francoise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-the-diary.xhtml" id="from-the-diary.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/from-the-new-speller.xhtml" id="from-the-new-speller.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/god-sees-the-truth-but-waits.xhtml" id="god-sees-the-truth-but-waits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gods-way-and-mans.xhtml" id="gods-way-and-mans.xhtml" media-type="application/xhtml+xml"/>
@@ -464,6 +465,7 @@
 		<itemref idref="singing-in-the-village.xhtml"/>
 		<itemref idref="traveller-and-peasant.xhtml"/>
 		<itemref idref="a-talk-with-a-wayfarer.xhtml"/>
+		<itemref idref="from-the-diary.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
