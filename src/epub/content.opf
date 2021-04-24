@@ -315,6 +315,7 @@
 		<item href="text/sevastopol-in-december-1854.xhtml" id="sevastopol-in-december-1854.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol-in-may-1855.xhtml" id="sevastopol-in-may-1855.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol.xhtml" id="sevastopol.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/singing-in-the-village.xhtml" id="singing-in-the-village.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/strawberries.xhtml" id="strawberries.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-bear-hunt.xhtml" id="the-bear-hunt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-candle.xhtml" id="the-candle.xhtml" media-type="application/xhtml+xml"/>
@@ -458,6 +459,7 @@
 		<itemref idref="the-memoirs-of-a-mother.xhtml"/>
 		<itemref idref="father-vasily.xhtml"/>
 		<itemref idref="three-days-in-the-village.xhtml"/>
+		<itemref idref="singing-in-the-village.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
