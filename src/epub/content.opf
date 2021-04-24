@@ -273,6 +273,7 @@
 		<item href="text/a-prisoner-in-the-caucasus.xhtml" id="a-prisoner-in-the-caucasus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-russian-proprietor.xhtml" id="a-russian-proprietor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-spark-neglected-burns-the-house.xhtml" id="a-spark-neglected-burns-the-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-talk-with-a-wayfarer.xhtml" id="a-talk-with-a-wayfarer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/after-the-dance.xhtml" id="after-the-dance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/albert.xhtml" id="albert.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/alyosha-the-pot.xhtml" id="alyosha-the-pot.xhtml" media-type="application/xhtml+xml"/>
@@ -462,6 +463,7 @@
 		<itemref idref="three-days-in-the-village.xhtml"/>
 		<itemref idref="singing-in-the-village.xhtml"/>
 		<itemref idref="traveller-and-peasant.xhtml"/>
+		<itemref idref="a-talk-with-a-wayfarer.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
