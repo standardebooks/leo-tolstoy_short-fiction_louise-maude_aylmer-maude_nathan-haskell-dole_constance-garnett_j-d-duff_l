@@ -209,6 +209,10 @@ footer{
 	text-align: right;
 }
 
+#preface table{
+	margin: 1em auto;
+}
+
 #lucerne header p{
 	text-align: right;
 }
