@@ -327,6 +327,7 @@
 		<item href="text/the-devil.xhtml" id="the-devil.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-empty-drum.xhtml" id="the-empty-drum.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fire.xhtml" id="the-fire.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-forged-coupon.xhtml" id="the-forged-coupon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-foundling.xhtml" id="the-foundling.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-godson.xhtml" id="the-godson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-gray-hare.xhtml" id="the-gray-hare.xhtml" media-type="application/xhtml+xml"/>
@@ -466,6 +467,7 @@
 		<itemref idref="traveller-and-peasant.xhtml"/>
 		<itemref idref="a-talk-with-a-wayfarer.xhtml"/>
 		<itemref idref="from-the-diary.xhtml"/>
+		<itemref idref="the-forged-coupon.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
