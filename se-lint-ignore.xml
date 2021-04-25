@@ -60,4 +60,10 @@
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
+	<file path="the-forged-coupon.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>The linter is flagging currency amounts as times set with a period.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
