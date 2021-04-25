@@ -309,6 +309,7 @@
 		<item href="text/meeting-a-moscow-acquaintance-in-the-detachment.xhtml" id="meeting-a-moscow-acquaintance-in-the-detachment.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/memoirs-of-a-lunatic.xhtml" id="memoirs-of-a-lunatic.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/milton-and-bulka.xhtml" id="milton-and-bulka.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/my-dream.xhtml" id="my-dream.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/natural-science-stories.xhtml" id="natural-science-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pheasants.xhtml" id="pheasants.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polikoushka.xhtml" id="polikoushka.xhtml" media-type="application/xhtml+xml"/>
@@ -468,6 +469,7 @@
 		<itemref idref="a-talk-with-a-wayfarer.xhtml"/>
 		<itemref idref="from-the-diary.xhtml"/>
 		<itemref idref="the-forged-coupon.xhtml"/>
+		<itemref idref="my-dream.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
