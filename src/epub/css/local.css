@@ -198,10 +198,8 @@ header [epub|type~="se:diary.dateline"]{
 	text-align: right;
 }
 
-section > header [epub|type~="title"]{
+#kholstomir section header p{
 	font-variant: small-caps;
-	margin: 1em;
-	text-align: center;
 }
 
 footer{
@@ -209,11 +207,7 @@ footer{
 	text-align: right;
 }
 
-#preface table{
-	margin: 1em auto;
-}
-
-#lucerne header p{
+#lucerne > p:first-of-type{
 	text-align: right;
 }
 
@@ -223,14 +217,18 @@ footer{
 	break-after: page;
 }
 
-#the-posthumous-papers-of-the-hermit-fedor-kusmich-2 header [epub|type~="se:diary.dateline"] time{
-	padding-right: 2em;
-}
-
 #god-sees-the-truth-but-waits footer,
 #a-prisoner-in-the-caucasus footer,
-#the-bear-hunt footer,
+#the-bear-hunt footer{
+	font-style: italic;
+}
+
 #the-posthumous-papers-of-the-hermit-fedor-kusmich footer{
 	text-align: center;
 	font-style: italic;
+}
+
+#the-porcelain-doll > blockquote{
+	margin-left: 0;
+	margin-right: 0;
 }
