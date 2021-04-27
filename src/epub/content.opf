@@ -318,7 +318,6 @@
 		<item href="text/natural-science-stories.xhtml" id="natural-science-stories.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/pheasants.xhtml" id="pheasants.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polikoushka.xhtml" id="polikoushka.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/recollections-of-a-scorer.xhtml" id="recollections-of-a-scorer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol-in-august-1855.xhtml" id="sevastopol-in-august-1855.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol-in-december-1854.xhtml" id="sevastopol-in-december-1854.xhtml" media-type="application/xhtml+xml"/>
@@ -379,7 +378,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="the-raid.xhtml"/>
 		<itemref idref="the-wood-felling.xhtml"/>
