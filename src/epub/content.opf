@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_leo-weiner_r-s-townsend_hagberg-wright_benjamin-tucker_everymans-library_vladimir-chertkov_isabella-fyvie-mayo</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-04-27T00:44:58Z</dc:date>
+		<meta property="dcterms:modified">2021-04-27T00:44:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -24,6 +24,7 @@
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
@@ -43,12 +44,11 @@
 		<meta property="term" refines="#subject-4">sh2008111647</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<meta property="se:subject">Spirituality</meta>
-		<dc:description id="description">This collection contains the short stories and novellas written by Leo Tolstoy.</dc:description>
+		<dc:description id="description">A collection of all of the short stories and novellas written by Leo Tolstoy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;While perhaps best known for his novels &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude"&gt;&lt;i&gt;War and Peace&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt;, the Russian author and religious thinker &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; was also a prolific author of short fiction. This Standard Ebooks production compiles together Tolstoy’s short stories and novellas written from 1852 up to his death, arranged in the approximate order of their publication by Tolstoy.&lt;/p&gt;
-			&lt;p&gt;The stories in this collection vary enormously in size and scope, from short, page-length fables composed for the education of schoolchildren to full novellas like &lt;i&gt;Family Happiness&lt;/i&gt;. Readers who are familiar with Tolstoy’s life and religious experiences—as detailed, for example, in his spiritual memoir &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude"&gt;&lt;i&gt;A Confession&lt;/i&gt;&lt;/a&gt;—may be able to trace the events of Tolstoy’s life through the changing subjects of this stories over the years. Some early stories in the collection like “The Raid” and the “Sevastopol” sketches draw from Tolstoy’s experiences in the Imperial Russian Army (the Caucasian War and the Crimean War, respectively), while other early stories like “Recollections of a Scorer” and &lt;i&gt;Two Hussars&lt;/i&gt; reflect Tolstoy’s personal struggle with gambling addiction.&lt;/p&gt;
-			&lt;p&gt;Later stories in the collection, written during and after Tolstoy’s conversion to Christian anarcho-pacifism (a spiritual and religious philosophy described in detail in his treatise &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God is Within You&lt;/i&gt;&lt;/a&gt;) in the 1870s, frequently reflect either Tolstoy’s own experiences in spiritual struggle (&lt;abbr&gt;e.g.&lt;/abbr&gt; &lt;i&gt;The Death of Ivan Ilyitch&lt;/i&gt;)or his interpretation the New Testament (&lt;abbr&gt;e.g.&lt;/abbr&gt; &lt;i&gt;The Forged Coupon&lt;/i&gt;), or both. Many later stories, like “Three Questions” and “How Much Land Does a Man Need?” are explicitly didactic in nature and are addressed to a popular audience to promote his religious ideals and views on social and economic justice.&lt;/p&gt;
+			&lt;p&gt;While perhaps best known for his novels &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude"&gt;&lt;i&gt;War and Peace&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt;, the Russian author and religious thinker &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; was also a prolific author of short fiction. This Standard Ebooks production compiles all of Tolstoy’s short stories and novellas written from 1852 up to his death, arranged in order of their original publication.&lt;/p&gt;
+			&lt;p&gt;The stories in this collection vary enormously in size and scope, from short, page-length fables composed for the education of schoolchildren, to full novellas like “Family Happiness.” Readers who are familiar with Tolstoy’s life and religious experiences—as detailed, for example, in his spiritual memoir &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude"&gt;&lt;i&gt;A Confession&lt;/i&gt;&lt;/a&gt;—may be able to trace the events of Tolstoy’s life through the changing subjects of these stories. Some early stories, like “The Raid” and the “Sevastopol” sketches, draw from Tolstoy’s experiences in the Caucasian War and the Crimean War when he served in the Imperial Russian Army, while other early stories like “Recollections of a Scorer” and “Two Hussars” reflect Tolstoy’s personal struggle with gambling addiction.&lt;/p&gt;
+			&lt;p&gt;Later stories in the collection, written during and after Tolstoy’s 1870s conversion to Christian anarcho-pacifism (a spiritual and religious philosophy described in detail in his treatise &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God is Within You&lt;/i&gt;&lt;/a&gt;), frequently reflect either Tolstoy’s own experiences in spiritual struggle (e.g. “The Death of Ivan Ilyitch”) or his interpretation of the New Testament (e.g. “The Forged Coupon”), or both. Many later stories, like “Three Questions” and “How Much Land Does a Man Need?” are explicitly didactic in nature and are addressed to a popular audience to promote his religious ideals and views on social and economic justice.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--The Cossacks and Other Tales of the Caucasus-->
@@ -102,8 +102,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51018</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Many stories in this collection were transcribed from the OCR due to the lack of pre-existing transcriptions. When Nine Stories (translated by Louise and Aylmer Maude, https://catalog.hathitrust.org/Record/001353442) is released into the public domain, it may be worth revisiting this collection to replace some of the stories with better translations.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">659638</meta>
+		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_short-fiction_louise-maude_aylmer-maude_nathan-haskell-dole_constance-garnett_j-d-duff_l</meta>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
@@ -262,6 +262,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
