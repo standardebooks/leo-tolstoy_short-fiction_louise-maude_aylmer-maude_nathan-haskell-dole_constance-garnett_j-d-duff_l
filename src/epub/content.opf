@@ -321,9 +321,6 @@
 		<item href="text/pheasants.xhtml" id="pheasants.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polikoushka.xhtml" id="polikoushka.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/recollections-of-a-scorer.xhtml" id="recollections-of-a-scorer.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/sevastopol-in-august-1855.xhtml" id="sevastopol-in-august-1855.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/sevastopol-in-december-1854.xhtml" id="sevastopol-in-december-1854.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/sevastopol-in-may-1855.xhtml" id="sevastopol-in-may-1855.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sevastopol.xhtml" id="sevastopol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/singing-in-the-village.xhtml" id="singing-in-the-village.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/strawberries.xhtml" id="strawberries.xhtml" media-type="application/xhtml+xml"/>
@@ -384,9 +381,6 @@
 		<itemref idref="the-wood-felling.xhtml"/>
 		<itemref idref="recollections-of-a-scorer.xhtml"/>
 		<itemref idref="sevastopol.xhtml"/>
-		<itemref idref="sevastopol-in-december-1854.xhtml"/>
-		<itemref idref="sevastopol-in-may-1855.xhtml"/>
-		<itemref idref="sevastopol-in-august-1855.xhtml"/>
 		<itemref idref="meeting-a-moscow-acquaintance-in-the-detachment.xhtml"/>
 		<itemref idref="the-snowstorm.xhtml"/>
 		<itemref idref="a-russian-proprietor.xhtml"/>
