@@ -267,7 +267,6 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
-		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
@@ -373,6 +372,7 @@
 		<item href="text/where-love-is-god-is.xhtml" id="where-love-is-god-is.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/why.xhtml" id="why.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/work-death-and-sickness.xhtml" id="work-death-and-sickness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
