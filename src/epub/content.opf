@@ -251,7 +251,7 @@
 		<meta property="file-as" refines="#transcriber-13">Tolstoy Library OnLine, The</meta>
 		<meta property="role" refines="#transcriber-13" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-14">Carlos Colón</dc:contributor>
-		<meta property="file-as" refines="#transcriber-14">Colón, Caralos</meta>
+		<meta property="file-as" refines="#transcriber-14">Colón, Carlos</meta>
 		<meta property="role" refines="#transcriber-14" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
