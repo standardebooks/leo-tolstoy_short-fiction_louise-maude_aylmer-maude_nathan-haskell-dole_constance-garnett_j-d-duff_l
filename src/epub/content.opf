@@ -151,8 +151,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n50026939</meta>
 		<meta property="display-seq" refines="#translator-5">5</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-6">Leo Weiner</dc:contributor>
-		<meta property="file-as" refines="#translator-6">Weiner, Leo</meta>
+		<dc:contributor id="translator-6">Leo Wiener</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Wiener, Leo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/Leo_Wiener</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-6">http://id.loc.gov/authorities/names/n50016211</meta>
 		<meta property="display-seq" refines="#translator-6">6</meta>
